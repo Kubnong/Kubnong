@@ -3,6 +3,8 @@
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubnong&layout=compact" alt="Top Langs">
+
 ## 🖥️ Languages
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
