@@ -25,7 +25,6 @@
   </a>
 </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubnong&layout=compact" alt="Top Langs">
----
 
 ## 🌐 Front-end
 <p align="left">
