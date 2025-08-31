@@ -3,8 +3,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubnong&layout=compact" alt="Top Langs">
-
 ## 🖥️ Languages
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -26,7 +24,7 @@
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
   </a>
 </p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubnong&layout=compact" alt="Top Langs">
 ---
 
 ## 🌐 Front-end
